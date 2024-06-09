@@ -1,1 +1,1 @@
-# npm-package
+# Xiippy's lightweight POS and eCommerce SDKs for NODE.JS

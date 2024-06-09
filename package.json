@@ -1,0 +1,30 @@
+{
+  "name": "xiippy.posecomsdk.light",
+  "version": "1.0.0",
+  "description": "Xiippy's lightweight POS and eCommerce SDKs for NODE.JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiippy/Xiippy.POSeCommSDK.Light_Node"
+  },
+  "keywords": [
+    "Xiippy",
+    "lightweight",
+    "SDKs",
+    "node"
+  ],
+  "author": "Xiippy.ai",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
